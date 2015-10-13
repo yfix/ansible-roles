@@ -52,3 +52,9 @@
 [submodule "security"]
 	path = security
 	url = git@github.com:yfix/ansible-role-security.git
+[submodule "common"]
+	path = common
+	url = git@github.com:yfix/ansible-role-common.git
+[submodule "yf"]
+	path = yf
+	url = git@github.com:yfix/ansible-role-yf.git
