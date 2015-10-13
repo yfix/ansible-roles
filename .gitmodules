@@ -1,0 +1,54 @@
+[submodule "anxs-nginx"]
+	path = anxs-nginx
+	url = git@github.com:yfix/ansible-role-anxs-nginx.git
+[submodule "apt"]
+	path = apt
+	url = git@github.com:yfix/ansible-role-apt.git
+[submodule "bash-cmd"]
+	path = bash-cmd
+	url = git@github.com:yfix/ansible-role-bash-cmd.git
+[submodule "composer"]
+	path = composer
+	url = git@github.com:yfix/ansible-role-composer.git
+[submodule "generic-users"]
+	path = generic-users
+	url = git@github.com:yfix/ansible-role-generic-users.git
+[submodule "mc"]
+	path = mc
+	url = git@github.com:yfix/ansible-role-mc.git
+[submodule "memcached"]
+	path = memcached
+	url = git@github.com:yfix/ansible-role-memcached.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:yfix/ansible-role-mysql.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:yfix/ansible-role-nginx.git
+[submodule "ntp"]
+	path = ntp
+	url = git@github.com:yfix/ansible-role-ntp.git
+[submodule "packer-debian"]
+	path = packer-debian
+	url = git@github.com:yfix/ansible-role-packer-debian.git
+[submodule "php"]
+	path = php
+	url = git@github.com:yfix/ansible-role-php.git
+[submodule "php-mysql"]
+	path = php-mysql
+	url = git@github.com:yfix/ansible-role-php-mysql.git
+[submodule "php-pecl"]
+	path = php-pecl
+	url = git@github.com:yfix/ansible-role-php-pecl.git
+[submodule "php-xdebug"]
+	path = php-xdebug
+	url = git@github.com:yfix/ansible-role-php-xdebug.git
+[submodule "php-xhprof"]
+	path = php-xhprof
+	url = git@github.com:yfix/ansible-role-php-xhprof.git
+[submodule "postfix"]
+	path = postfix
+	url = git@github.com:yfix/ansible-role-postfix.git
+[submodule "security"]
+	path = security
+	url = git@github.com:yfix/ansible-role-security.git
